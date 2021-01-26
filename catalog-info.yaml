@@ -6,4 +6,5 @@ metadata:
     github.com/project-slug: h4yde/AES-simplificado
 spec:
   type: other
+  owner: Wizeline Backstage Team
   lifecycle: unknown
